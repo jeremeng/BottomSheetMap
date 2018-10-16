@@ -95,7 +95,7 @@
             <ImageView
                 android:id="@+id/searchView"
                 android:layout_width="0dp"
-                android:src="@draw able/places_ic_search"
+                android:src="@drawable/places_ic_search"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"/>
         </LinearLayout>
