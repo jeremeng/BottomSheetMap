@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MapsBottomSheetLayout</string>
+    <string name="autocomplete_hint">Search a Place</string>
+</resources>
